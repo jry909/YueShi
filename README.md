@@ -12,3 +12,7 @@ MODEL_BASE_URL=https://open.bigmodel.cn/api/paas/v4
 MODEL_ID=glm-5.3-flash  
 MODEL_API_KEY=7ed5ad7c29e245bc94654306f44abe6d  
 PORT=3210
+
+
+页面示例：
+!(image/demopage_1.png)
